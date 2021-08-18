@@ -5,9 +5,10 @@
 - 🌱 I’m currently learning Javascript Restful Api
 - 📫 How to reach me: https://bit.ly/37TcCSZ
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=AtahanKocc&show_icons=true&theme=gradient) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AtahanKocc&show_icons=true&theme=tokyonight)
 
+![](https://visitor-badge.laobi.icu/badge?page_id=AtahanKocc.AtahanKocc)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtahanKocc&theme=tokyonight)
 
