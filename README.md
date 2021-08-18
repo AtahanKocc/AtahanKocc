@@ -7,7 +7,7 @@
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=AtahanKocc&show_icons=true&theme=gradient) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AtahanKocc&show_icons=true&theme=tokyonight)
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+
