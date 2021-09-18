@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently IMU Computer Engineering student (5/5)
-- 🌱 I’m currently learning Jquery
+- 🌱 I’m currently learning jQuery
 - 📫 How to reach me: https://bit.ly/37TcCSZ
 -----------------------------------------------------------------
 
