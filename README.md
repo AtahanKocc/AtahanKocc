@@ -11,4 +11,4 @@
 
 
 ## 
-[![AtahanKocc stats](https://github-readme-stats.vercel.app/api/wakatime?username=AtahanKocc)](https://github.com/AtahanKocc/github-readme-stats)
+[![AtahanKocc stats](https://github-readme-stats.vercel.app/api/wakatime?username=AtahanKocc)](https://github.com/anuraghazra/github-readme-stats)
