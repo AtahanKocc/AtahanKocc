@@ -10,3 +10,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtahanKocc)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## 
+[![AtahanKocc stats](https://github-readme-stats.vercel.app/api/wakatime?username=AtahanKocc)](https://github.com/AtahanKocc/github-readme-stats)
