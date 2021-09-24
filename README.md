@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently IMU Computer Engineering student (5/5)
-- 🌱 I’m currently learning javascript OOP
+- 🌱 I’m currently learning Javascript ES6
 - 📫 How to reach me: https://bit.ly/37TcCSZ
 -----------------------------------------------------------------
 
