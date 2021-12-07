@@ -11,5 +11,5 @@
 
 
 ## Wakatime
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AtahanKocc)](https://github.com/AtahanKocc/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/AtahanKocc/github-readme-stats)
 
