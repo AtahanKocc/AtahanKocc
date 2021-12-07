@@ -9,5 +9,7 @@
 ## &#x1f4c8; GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtahanKocc&layout=compact)](https://github.com/AtahanKocc/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtahanKocc&layout=compact)](https://github.com/AtahanKocc/github-readme-stats)
+
+## Wakatime
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AtahanKocc)](https://github.com/AtahanKocc/github-readme-stats)
 
