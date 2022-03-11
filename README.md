@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning OpenCv
 - 📫 How to reach me: https://bit.ly/37TcCSZ
 - 🎯 Hackerrank: https://bit.ly/3GuIEUa
-- 💻 Frelancer: Upwork: https://bit.ly/3I3qERE  && Fiverr: https://bit.ly/3KAEegT
+- 💻 Freelancer: Upwork: https://bit.ly/3I3qERE  && Fiverr: https://bit.ly/3KAEegT
 -----------------------------------------------------------------
 
 ## &#x1f4c8; GitHub Stats
