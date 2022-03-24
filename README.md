@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently IMU Computer Engineering student 
-- 🌱 I’m currently learning OpenCv
+- 🌱 I’m currently learning Web3
 - 📫 How to reach me: https://bit.ly/37TcCSZ
 - 🎯 Hackerrank: https://bit.ly/3GuIEUa
 - 💻 Freelancer: Upwork: https://bit.ly/3I3qERE  && Fiverr: https://bit.ly/3KAEegT
