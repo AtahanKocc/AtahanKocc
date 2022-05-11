@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Typescript
 - 📫 How to reach me: https://bit.ly/37TcCSZ
 - 🎯 Hackerrank: https://bit.ly/3GuIEUa
-- 💻 Freelancer: Upwork: https://bit.ly/3I3qERE  && Fiverr: https://bit.ly/3KAEegT
+- 💻 Freelancer: Fiverr: https://bit.ly/3KAEegT & Upwork: https://bit.ly/3I3qERE   
 -----------------------------------------------------------------
 
 ## &#x1f4c8; GitHub Stats
