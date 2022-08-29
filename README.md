@@ -4,7 +4,6 @@
 - 🔭 I’m currently IMU Computer Engineering student 
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me: https://bit.ly/3SFVYwu
-- 🎯 Hackerrank: https://bit.ly/3GuIEUa
 - 💻 Freelancer: Fiverr: https://bit.ly/3KAEegT & Upwork: https://bit.ly/3I3qERE   
 - 🎯 Dribbble  : https://dribbble.com/AtahanKoc  
 -----------------------------------------------------------------
