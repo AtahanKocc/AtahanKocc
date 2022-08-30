@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m currently IMU Computer Engineering student 
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning ReactJs
 - 📫 How to reach me: https://bit.ly/3SFVYwu
-- 💻 Freelancer: Fiverr: https://bit.ly/3KAEegT & Upwork: https://bit.ly/3I3qERE   
+- 💻 Freelancer: Fiverr: https://bit.ly/3KAEegT  
 - 🎯 Dribbble  : https://dribbble.com/AtahanKoc  
 -----------------------------------------------------------------
 
