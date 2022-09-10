@@ -10,7 +10,7 @@
 
 ## &#x1f4c8; GitHub Stats
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=AtahanKocc&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
------------------------------------------------------------------
+
 ## Languages
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
