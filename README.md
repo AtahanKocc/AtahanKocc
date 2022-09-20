@@ -30,7 +30,6 @@
 </div>
 
 
-![](https://komarev.com/ghpvc/?username=AtahanKocc)
 
 
 
