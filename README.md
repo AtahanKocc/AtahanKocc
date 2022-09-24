@@ -9,7 +9,7 @@
 -----------------------------------------------------------------
 
 ## &#x1f4c8; GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtahanKocc&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtahanKocc&layout=compact)](https://github.com/AtahanKocc/github-readme-stats)
 
 -----------------------------------------------------------------
 ### 🛠 Tech Stack
