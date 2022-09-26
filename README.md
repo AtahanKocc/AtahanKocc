@@ -7,11 +7,6 @@
 - 💻 Freelancer: Fiverr: https://bit.ly/3KAEegT  
 - 🎯 Dribbble  : https://dribbble.com/AtahanKoc  
 -----------------------------------------------------------------
-
-## &#x1f4c8; GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtahanKocc)](https://github.com/anuraghazra/github-readme-stats)
-
------------------------------------------------------------------
 ### 🛠 Tech Stack
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
