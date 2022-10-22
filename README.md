@@ -1,7 +1,7 @@
 ### Hi I'm Atahan 👋
 
 
-- 🔭 I’m currently IMU Computer Engineering student 
+- 🔭 I’m a Computer Engineer
 - 🌱 I’m currently learning ReactJs
 - 📫 How to reach me: https://bit.ly/3SFVYwu
 - 💻 Freelancer: Fiverr: https://bit.ly/3KAEegT  
