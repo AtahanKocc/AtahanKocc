@@ -27,4 +27,3 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=AtahanKocc&color=dc143c)
