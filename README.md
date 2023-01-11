@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m a Computer Engineer
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me: https://bit.ly/3SFVYwu
 - 💻 Freelancer: Fiverr: https://bit.ly/3KAEegT  
 - 🎯 Dribbble  : https://dribbble.com/AtahanKoc  
