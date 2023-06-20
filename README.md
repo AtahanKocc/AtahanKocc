@@ -2,10 +2,11 @@
 
 
 - 🔭 I’m working as a Software Engineer at Geovision Group.
-- 📫 How to reach me: https://bit.ly/3SFVYwu
+- 📫 How to reach me: https://bit.ly/3SFVYwu 
 - 💻 Freelancer: Fiverr: https://bit.ly/3KAEegT  
 - 🎯 Dribbble  : https://dribbble.com/AtahanKoc  
 - 🎯 Behance   : https://www.behance.net/atahankoc
+- 💻 bento.me  :  https://bento.me/atahankoc
 -----------------------------------------------------------------
 ### 🛠 Tech Stack
 <div>
