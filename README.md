@@ -1,7 +1,7 @@
 ### Hi I'm Atahan 👋
 
 
-- 👨‍💻 I’m working as a Software Engineer at Geovision Group.
+- 👨‍💻 I’m a Software Engineer.
 - 📫 How to reach me: https://bit.ly/3SFVYwu 
 - ✨ Dribbble  : https://dribbble.com/AtahanKoc  
 - 🎯 Behance   : https://www.behance.net/atahankoc
