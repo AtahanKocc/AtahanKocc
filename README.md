@@ -1,11 +1,7 @@
 ### Hi I'm Atahan 👋
 
-
-- 👨‍💻 I’m a Software Engineer.
 - 📫 How to reach me: https://bit.ly/3SFVYwu 
-- ✨ Dribbble  : https://dribbble.com/AtahanKoc  
-- 🎯 Behance   : https://www.behance.net/atahankoc
-- 💻 bento.me  :  https://bento.me/atahankoc
+
 -----------------------------------------------------------------
 ### 🛠 Tech Stack
 <div>
