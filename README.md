@@ -1,6 +1,6 @@
 ### Hi I'm Atahan 👋
 
-- 📫 How to reach me: https://bit.ly/3SFVYwu 
+- 📫 How to reach me: https://www.linkedin.com/in/atahankoc/
 
 -----------------------------------------------------------------
 ### 🛠 Tech Stack
